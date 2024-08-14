@@ -1,0 +1,1 @@
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/sbf-solana-solana/release/solprog.so: /Users/leonteandrei/Documents/solana/solana-training/course7/solprog/programs/solprog/src/lib.rs

@@ -1,0 +1,10 @@
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/sbf-solana-solana/release/deps/libthiserror-8d16e7dbce7b8ec0.rmeta: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/sbf-solana-solana/release/deps/libthiserror-8d16e7dbce7b8ec0.rlib: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/sbf-solana-solana/release/deps/thiserror-8d16e7dbce7b8ec0.d: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs:

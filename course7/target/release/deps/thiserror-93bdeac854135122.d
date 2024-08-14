@@ -1,0 +1,10 @@
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/release/deps/libthiserror-93bdeac854135122.rmeta: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/release/deps/libthiserror-93bdeac854135122.rlib: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/release/deps/thiserror-93bdeac854135122.d: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs:

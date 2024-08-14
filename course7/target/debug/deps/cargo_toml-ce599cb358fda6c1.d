@@ -1,0 +1,10 @@
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/debug/deps/libcargo_toml-ce599cb358fda6c1.rmeta: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/cargo_toml.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/afs.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/error.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/inheritable.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/debug/deps/libcargo_toml-ce599cb358fda6c1.rlib: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/cargo_toml.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/afs.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/error.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/inheritable.rs
+
+/Users/leonteandrei/Documents/solana/solana-training/course7/solprog/target/debug/deps/cargo_toml-ce599cb358fda6c1.d: /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/cargo_toml.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/afs.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/error.rs /Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/inheritable.rs
+
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/cargo_toml.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/afs.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/error.rs:
+/Users/leonteandrei/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_toml-0.19.2/src/inheritable.rs:
